@@ -1,5 +1,3 @@
-# 🏆 MLP 2D Competition: Avaliação e Ranqueamento de Modelos
-
 Este projeto implementa um *framework* de avaliação de modelos de Machine Learning (MLP) utilizando o **K-Fold Cross-Validation**, cálculo de **métricas de desempenho agregadas** e **medição de tempo de inferência**. O objetivo é ranquear o desempenho do modelo em três bases de dados bidimensionais (`Two Moons`, `Banana`, `Ripley`) usando um **Score Final (S)** baseado em qualidade e eficiência.
 
 ## 📄 Estrutura do Código
