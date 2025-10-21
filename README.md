@@ -40,5 +40,5 @@ $$S = 0.70 \cdot M - 0.20 \cdot \sigma M + 0.10 \cdot T^\star$$
 | Componente | Peso | Objetivo | Descrição |
 | :--- | :--- | :--- | :--- |
 | **Média Agregada ($M$)** | **0.70** | Máximo | Média das 4 métricas (Acc, Prec, Rec, F1) do K-Fold. **Qualidade Preditiva.** |
-| **Desvio Agregado ($\sigma M$)** | **-0.20** | Mínimo | Média do desvio padrão das 4 métricas. **Estabilidade/Robustez.** |
+| **Desvio Agregado ($\sigma M$)** | **0.20** | Mínimo | Média do desvio padrão das 4 métricas. **Estabilidade/Robustez.** |
 | **Tempo Normalizado ($T^\star$)** | **0.10** | Máximo | Tempo de inferência normalizado e invertido. **Eficiência/Latência.** |
