@@ -15,7 +15,7 @@ O projeto é contido em um único script/notebook (como Colab ou Jupyter) que:
 
 Este código requer as seguintes bibliotecas Python. Elas podem ser instaladas via `pip`:
 
-```bash
+```bash``
 pip install numpy scikit-learn torch matplotlib pandas seaborn
 
 ## 🚀 Como Executar
